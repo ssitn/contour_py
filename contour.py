@@ -9,7 +9,7 @@ Created on Wed May 16 11:21:00 2019
 # points_connect() - a function used to connect 2 points or array of points with a straight line. It creates an array of pixel coordinates which 
 #                    form a straight line between pair of input points.
 #  
-# points_arrange() - a function which will orders an array of coordinates of the contour so that each pixel is followed by the neares next pixel. 
+# points_arrange() - a function which will order an array of coordinates of the contour so that each pixel is followed by the neares next pixel. 
 # curvature2D() - calculates curvature of the contour in each point.
 # centre_mass2D() - calculates the coordinates of object's center of mass.
 # point_distance() - calculates distance between points in two input arrays. If input_array_2 is a single point, the function calculates distance between
